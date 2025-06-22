@@ -253,7 +253,7 @@ export default function HomePage() {
                                 <div className="absolute bottom-4 left-4 w-6 h-6 bg-red-600 rounded-sm animate-pulse delay-200" />
                                 <div className="absolute bottom-4 right-4 w-8 h-8 bg-red-500 rounded-sm animate-pulse delay-300" />
                             </div>
-                            {/* <Image src="/logos.png" alt="logo" className="absolute inset-0 animate-spin-slow" width={1500} height={1500}></Image> */}
+                            {/* <Image src="/logos.png" alt="logo" className="absolute inset-0 animate-spin-slow" width={150} height={150}></Image> */}
 
                             {/* Floating Particles */}
                             <div className="absolute -top-8 -left-8 w-4 h-4 bg-red-400 rounded-sm animate-bounce" />
