@@ -16,13 +16,13 @@ export default function Footer() {
                                 </div>
                                 <div className="absolute -top-1 -right-1 w-3 h-3 bg-red-400 rounded-sm animate-pulse" /> */}
 
-                                <Image src="/logos.png" alt="logo" width={45} height={45}></Image>
+                                <Image src="/logo.svg" alt="logo" width={150} height={45}></Image>
 
                             </div>
-                            <div>
+                            {/* <div>
                                 <span className="font-mono text-xl font-bold text-white">RedPixel Labs</span>
                                 <div className="text-xs text-gray-500 font-mono">One Lab. Endless Solutions.</div>
-                            </div>
+                            </div> */}
                         </Link>
                         <p className="text-gray-400 text-sm leading-relaxed mb-4">
                             Crafting digital experiences pixel by pixel. We combine technical excellence with creative innovation to
